@@ -1,4 +1,4 @@
-# miRepositorio
+Cambio realizado por Amparo Pulido Fernández.
 Cambio realizado por Manolo Gómez.
 Cambio realizado por Francisco Manuel Hernández.
 Cambio realizado por Alberto Salazar
